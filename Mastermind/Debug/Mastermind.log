@@ -1,0 +1,4 @@
+﻿  Mastermind.cpp
+C:\Users\Usuario\source\repos\Mastermind\Mastermind\Mastermind.cpp(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Mastermind\Mastermind\Mastermind.cpp(151,12): warning C4060: la instrucción switch no contiene etiquetas 'case' ni 'default'
+  Mastermind.vcxproj -> C:\Users\Usuario\source\repos\Mastermind\Debug\Mastermind.exe
